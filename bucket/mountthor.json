@@ -1,12 +1,12 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Mount Thor customer CLI for registration, API keys, sessions, bare-metal leases, and VM workflows",
   "homepage": "https://mountthor.com",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://get.mountthor.com/mountthor/v0.2.5/mountthor-x86_64-pc-windows-msvc.zip",
-      "hash": "3f1d335f265ef7895686466942d79eed990e1687dc836642d4e0f1fe51be3b7f"
+      "url": "https://get.mountthor.com/mountthor/v0.2.6/mountthor-x86_64-pc-windows-msvc.zip",
+      "hash": "bc0c9c925d3a05de92c2034d437e8682d27b13efe4ef220a689274aa40666801"
     }
   },
   "bin": "mountthor.exe",
